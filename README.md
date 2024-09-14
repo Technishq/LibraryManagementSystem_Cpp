@@ -1,7 +1,7 @@
 
 # 📚 Library Management System
 
-![Library Banner](https://user-images.githubusercontent.com/your_image_link/banner.png)
+![Library Banner](https://www.pixel-studios.com/blog/wp-content/uploads/2018/12/012-1200x600.jpg)
 
 ## 📖 Introduction
 Welcome to the **Library Management System**, a simple yet powerful application built using C++. This system allows you to manage books, students, and transactions seamlessly. It supports adding, lending, returning, and tracking of books, alongside student management with fine calculations for late returns.
@@ -189,7 +189,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 If you have any questions, feel free to reach out!
 
-- **Email**: your.email@example.com
+- **Email**: er.tanishqs@gmail.com
 - **GitHub**: [Technishq](https://github.com/technishq)
 
 ---
