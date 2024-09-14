@@ -175,7 +175,19 @@ Contributions are welcome! If you'd like to improve or add new features to this 
 
 ## 📷 Screenshots
 
-Add screenshots or GIFs of your application here to make the README visually appealing.
+Here are some screenshots of the application in action:
+
+### 1. Main Menu
+![Main Menu](./img/1.png)
+
+### 2. Adding a Book
+![Add Book](./img/4.png)
+
+### 3. Borrowing a Book
+![Borrow Book](./img/3.png)
+
+### 4. Returning a Book
+![Return Book](./img/2.png)
 
 ---
 
